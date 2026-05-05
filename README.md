@@ -51,11 +51,15 @@ UniSafe is an Android-based campus complaint management system that allows stude
 
 
 
-<img src="Screenshots/splash.jpg" width="250"/>
-![Dashboard](Screenshots/dashboard.jpg)
-![Complaints](Screenshots/signup.jpg)
-![Categories](Screenshots/Adminportal.jpg)
-![Profile](Screenshots/complaints.jpg)
+<p align="center">
+  <img src="Screenshots/splash.jpg" width="250"/>
+  <img src="Screenshots/signup.jpg" width="250"/>
+  <img src="Screenshots/complaints.jpg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Adminportal.jpg" width="250"/>
+</p>
 
 ---
 
@@ -73,7 +77,7 @@ UniSafe is an Android-based campus complaint management system that allows stude
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/unisafe.git](https://github.com/lakshay125/Unisafe.git)
+git clone [(https://github.com/lakshay125/Unisafe.git)]
 ```
 
 2. Open in Android Studio
@@ -119,4 +123,5 @@ UniSafe improves campus life by:
 
 ## 👨‍💻 Author
 
+Lakshay
 Developed as an Android project using Firebase.
