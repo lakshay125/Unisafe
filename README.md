@@ -124,4 +124,5 @@ UniSafe improves campus life by:
 ## 👨‍💻 Author
 
 Lakshay
+
 Developed as an Android project using Firebase.
