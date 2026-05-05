@@ -49,13 +49,13 @@ UniSafe is an Android-based campus complaint management system that allows stude
 
 ## 🖼️ Screenshots
 
-> 📌 Add your screenshots in a `/screenshots` folder and use:
 
-![Splash Screen](screenshots/splash.jpg)
-![Dashboard](screenshots/dashboard.jpg)
-![Complaints](screenshots/complaints.jpg)
-![Categories](screenshots/categories.jpg)
-![Profile](screenshots/profile.jpg)
+
+<img src="Screenshots/splash.jpg" width="250"/>
+![Dashboard](Screenshots/dashboard.jpg)
+![Complaints](Screenshots/signup.jpg)
+![Categories](Screenshots/Adminportal.jpg)
+![Profile](Screenshots/complaints.jpg)
 
 ---
 
